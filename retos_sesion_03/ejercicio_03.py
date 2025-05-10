@@ -1,0 +1,7 @@
+print(" TUTORIAL PARA BARRER UNA HABITACIÓN ")
+print("")
+print("1. Inicialmente busquemos una escoba en óptimas condiciones")
+print("2. Haga contacto con la escoba usando la palma de sus manos, posteriormente haga sugeción de la misma con sus dedos")
+print("3. Realize el barrido, siguiendo un patron de arrastrar los cepillos de la escoba en la supericie, recorra hacia atrás y levante la escoba para volver a iniciar el mismo proceso")
+print("4. Movilizese por el area donde va a realizar el barrido, apoyese del basurero para ir recolectando la basura")
+print("5. Vacíe el contenido del basurero en una bolsa plástica y cierre la misma")
