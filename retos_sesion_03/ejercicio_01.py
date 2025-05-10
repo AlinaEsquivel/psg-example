@@ -1,1 +1,2 @@
-print("Libro: Shut up and give me the mic - Dee Snider")
+print("Título: Waiting For Love")
+print("Artista: Avicii")
