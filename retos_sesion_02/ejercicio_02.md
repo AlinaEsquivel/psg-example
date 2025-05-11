@@ -38,8 +38,9 @@ Adoro esta carrera porque me obliga a hacer cosas que normalmente no podria, com
 * Tener contacto face to face con las personas
 * Leer mucho para conocer la historia del pais
 * Guiar grupos de personas y tener siempre un plan de distraccion por si pasa algun retraso
+  
+  
 Aspectos como estos *(salir de mi zona de confort)* son los que me motivan a continuar con mi carrera. Además que con esta carrera estoy viajando a lugares que no pense antes que iría.
-
 
 Para finalizar, considero estas las frase que normalmente recuerdo cuando me encuentro en una situacion dificil, y con las que me motivo he inspiro:
 
