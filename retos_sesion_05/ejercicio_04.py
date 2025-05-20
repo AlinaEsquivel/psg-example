@@ -4,5 +4,5 @@
 
 lado = 15
 volumen = lado * lado * lado
-print ("El volumen del cuadrado en metros es:")
+print ("El volumen del cubo en metros es:")
 print ((volumen))
