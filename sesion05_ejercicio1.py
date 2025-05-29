@@ -21,5 +21,7 @@ print (comparar != 10)
 print("")
 # comparar
 print ("2" == 2)
+# objeto
 print (2.0 is 2)
+# numero
 print (2 == 2.0)
