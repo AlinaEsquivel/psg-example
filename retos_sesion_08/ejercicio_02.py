@@ -1,0 +1,11 @@
+print ("")
+print ("Tu tupla")
+tupla = ('a','b','c','d','e','f','g','h','i','j')
+print (tupla, type(tupla))
+print ("")
+print ("1er elemento: ", tupla[0])
+print ("Ultimo elemento: ", tupla[-1])
+print ("slide del indice 3 al 5: ", tupla[3:5])
+print ("Slide del 5 al 9 con pasos de 3: ", tupla[5:9:3])
+print ("Slide del 9 al 0 con pasos de -2: ", tupla[9:0:-2])
+
